@@ -17,12 +17,6 @@ This project is a web application developed for Reachinbox. It features a user-f
 
 ## Installation
 
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/saqlainkaleem/reachinbox.git `
-
-   ```
 
 1. **Navigate to the Project Directory**
 
